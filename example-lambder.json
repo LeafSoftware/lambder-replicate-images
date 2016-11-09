@@ -1,0 +1,7 @@
+{
+  "name": "replicate-images",
+  "s3_bucket": "mybucket",
+  "timeout": 300,
+  "memory": 128,
+  "description": ""
+}
